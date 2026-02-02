@@ -958,4 +958,5 @@ UNINSTALLEOF
 }
 
 create_readme() {
-    cat > "$DECEIT_ROOT/README.md" << 'READMEEOF'}
+    cat > "$DECEIT_ROOT/README.md" << 'READMEEOF'
+    }
